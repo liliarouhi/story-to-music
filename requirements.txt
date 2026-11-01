@@ -1,0 +1,8 @@
+numpy
+scipy
+matplotlib
+torch
+transformers
+pretty_midi
+soundfile
+PySide6

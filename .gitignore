@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+.venv/
+venv/
+.DS_Store
+# generated outputs
+runs/
+*.wav
+# large local assets (see README)
+Models/
+SoundFont/*.sf2
